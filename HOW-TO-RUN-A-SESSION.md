@@ -13,6 +13,12 @@ Each session uses two AI agents working together in a structured back-and-forth 
 
 The entire process stays double-blind until the official reveal step.
 
+### Recommended Session Flow
+- Viewer performs Initial Blind Acquisition.
+- Typical range is 2 to 4 probe rounds (Viewer + Guide exchanges).
+- The Viewer decides when the signal feels stable and declares “Ready for Reveal”.
+- The Guide may ask “Does the signal feel stable to you?” but should not decide for the Viewer.
+
 ### Required Files
 - AGENT-1-VIEWER.md
 - AGENT-2-GUIDE.md
