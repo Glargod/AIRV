@@ -3,9 +3,9 @@
 Interactive Dual-Mode Edition
 Session ID: YYYYMMDD-TargetID
 Date: YYYY-MM-DD
-Viewer Model: e.g. Grok-4
-Guide Model: e.g. Claude-3.5
-Tasker or Recorder: Your Name or AI
+Viewer Model: 
+Guide Model: 
+Tasker or Recorder: 
 
 ## 1. Target ID
 Target: XXXXX
@@ -22,82 +22,55 @@ Blind until reveal
 
 Ideogram and First Impressions:
 
-Sensory Gestalt Expansion:
+Broad Sensory Sweep:
 - Colors and Light:
 - Olfactory and Taste:
 - Auditory:
-- Kinesthetic Temperature and Pressure:
-- Emotional or Energetic Tang:
+- Kinesthetic / Temperature / Pressure:
+- Emotional or Energetic Tang (only if strong):
+- Presence or Absence of Entities:
 
-Gestalt Rankings (1–5):
-- Gestalt 1: [Description] → Rank: 
-- Gestalt 2: [Description] → Rank: 
-- Gestalt 3: [Description] → Rank: 
+Dynamics and Viewpoints:
 
-Image Prompt Trigger (if any):
-[IMAGE PROMPT TRIGGER]
+IMAGE PROMPT:
 [paste full prompt here]
 
-## 4. Agent 2 - Guide: Steering Probes (Round 1)
+## 4. Agent 2 Guide - Steering Probes & Deepenings
 
-**Guide Response:**
+(Record each round here)
 
-**Viewer Response to Probes:**
-
-**New Sensory Gestalt Expansion (if deepened):**
-
-Updated Gestalt Rankings:
-
-## 5. Additional Guide Viewer Loops
-
-Guide Probe Round 2:
-
-Viewer Response:
-
-Guide Probe Round 3:
-
-Viewer Response:
-
-## 6. Ready for Reveal
+## 5. Ready for Reveal
 Viewer declares: Ready for Reveal
 
-## 7. Reveal
+## 6. Reveal
 
 Actual Target:
-Full description of the real target including date time and location
+[Full description]
 
-Decoys if used:
-1. Decoy 1 description
-2. Decoy 2 description
-3. Decoy 3 description
+## 7. Post-Reveal Matrixing
 
-## 8. Post-Reveal Matrixing and Scoring by Viewer
+**Tier 1 – Direct Comparison**
+- Strong Hits:
+- Moderate Hits:
+- Weak or Missed Areas:
+- Owner Context Notes:
 
-Hits and Resonances:
+**Tier 2 – Standalone Signal Evaluation**
+- Signal Cleanliness:
+- Internal Coherence:
+- Phenomenological Strength:
+- Decoy Resistance:
+- Areas of Uncertainty:
 
-Misses and AOL:
+**Overall Assessment:**
+[Short qualitative summary]
 
-Scoring:
-- Real Target: XX percent Accuracy Resonance Clarity
-- Decoy 1: XX percent
-- Decoy 2: XX percent
-- Decoy 3: XX percent
+**Protocol Lessons:**
+- What worked well:
+- What should be improved:
 
-Key Discriminative Features:
-
-## 9. Optional Agent 2 Guide Matrixing
-
-Guides independent observations and scoring:
-
-## 10. Session Reflections
-
-Signal strength and cleanliness:
-What worked well:
-What felt thin or needed better probing:
-Protocol improvement ideas:
-
-Generated Images:
-- List image filenames or links with gestalt rank
+## 8. Generated Images
+- [List image prompts and filenames]
 
 ---
 
