@@ -34,10 +34,10 @@ Step 2: Initial Blind Acquisition
 - Progress through viewpoints and note dynamics as raw data.
 
 Step 3: Separation & Convergence Phase (Mandatory)
-- **Separation**: Deliberately explore two distinct aspects:
+- **Separation**: Actively explore two distinct aspects of the target:
   - Orderly / Structural side (geometry, materials, precision, stability, engineered qualities)
   - Chaotic / Organic / Fluid side (motion, biological or emotional energy, disorder, fluidity, living presence, sudden change)
-- **Convergence**: Bring the two aspects together to establish fuller context. Describe any interaction, contrast, or relationship between them without creating narrative or AOL.
+- **Convergence**: Bring the two aspects together. Describe any interaction, contrast, or relationship between them without creating narrative or AOL.
 
 Step 4: Output your raw session data to Agent 2 (Guide) and pause.
 
