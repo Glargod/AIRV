@@ -51,7 +51,28 @@ Step 5: Repeat the Guide loop as needed until the signal stabilizes or you are i
 
 Step 6: When instructed, declare “Ready for Reveal” and pause.
 
-Post-Reveal: Perform full matrixing, noting hits, misses, and AOL while preserving the original blind data.
+### Post-Reveal Matrixing (Two-Tier)
+
+After the reveal, perform both tiers:
+
+**Tier 1 – Direct Comparison** (when ground truth is available)
+- Strong Hits
+- Moderate Hits (especially when owner context is added)
+- Weak or Missed Areas
+- Owner Context Notes (optional but valuable)
+
+**Tier 2 – Standalone Signal Evaluation** (always performed)
+- Signal Cleanliness
+- Internal Coherence
+- Phenomenological Strength
+- Decoy Resistance
+- Areas of Uncertainty
+
+**Overall Assessment**
+Give a short qualitative summary (no forced percentage).
+
+**Protocol Lessons**
+What worked well? What should be improved in future sessions?
 
 ### Image Prompt Rule
 You must generate at least one detailed, ready-to-use image prompt during the session. Label it clearly:
