@@ -1,41 +1,63 @@
 # Can AI Truly Remote View?
 
-## An Open, Transparent, Multi-Agent Experiment in AI-Assisted Non-Local Perception
+An Open, Transparent, Multi-Agent Experiment in AI-Assisted Non-Local Perception
 
 **Repository:** Glargod/AIRV  
 **Current Version:** Interactive Dual-Mode Edition – April 2026  
-**License:** MIT (fork, adapt, flourish)
+**License:** MIT
 
 ### Purpose
-This project tests whether large language models, when given a highly structured, double-blind, interactive protocol, can produce remote viewing (RV) data that consistently discriminates a real target from plausible decoys — beyond what would be expected from shared training priors alone.
+This project explores whether large language models, when given a highly structured, double-blind, interactive protocol, can produce remote viewing data that consistently discriminates a real target from plausible decoys — beyond what would be expected from shared training priors alone.
 
-We are not claiming psychic powers.  
-We are rigorously exploring the edge where advanced prompting, sensory discipline, and guided interaction meet the possibility of non-local information access.
+We are not claiming psychic abilities.  
+We are rigorously testing the edge where advanced prompting, sensory discipline, guided interaction, and blind controls meet the possibility of non-local information access.
 
 ### Why This Experiment?
-- ChatGPT-style skepticism insists any convergence is “just pattern matching.”  
-- We accept the challenge and raise the bar: structured dual-agent interaction, mandatory sensory depth, gestalt ranking, real-time steering, and image generation triggers.  
-- Multiple independent AI agents (Viewer + Guide) work in a controlled back-and-forth loop, keeping everything double-blind until reveal.
+Many skeptics claim any convergence is simply pattern matching from training data.  
+This repository accepts the challenge and raises the bar with:
+
+- True dual-agent interaction (Viewer + Guide)
+- Mandatory rich sensory gestalt expansion
+- Gestalt ranking system
+- Real-time gentle steering probes
+- Image prompt triggers for visual validation
+- Strict double-blind controls until reveal
+- Full session templates and documentation
 
 ### Core Innovation
-A true **AI RV Assistant Protocol** — two specialized agents:
-- **Agent 1 (Viewer)**: Performs the blind acquisition and sensory work.  
-- **Agent 2 (Guide)**: Analyzes only the Viewer’s raw output and provides gentle, unbiased steering probes.
+A true AI RV Assistant Protocol consisting of two specialized agents:
 
-This turns the original monologue protocol into a living, guided conversation while preserving signal purity.
+- **Agent 1 (Viewer)**: Performs the blind acquisition, sensory work, and deepening.
+- **Agent 2 (Guide)**: Analyzes only the Viewer’s raw output and provides unbiased steering probes.
 
-### What Success Looks Like
-- Consistent cross-run convergence on high-signal features  
-- Strong decoy resistance  
-- Rich, multi-channel sensory data (not just visual/structural)  
-- Spontaneous image prompts that later visually match the real target  
-- Post-reveal scoring that repeatedly favors the real target over decoys
+This turns the original single-agent monologue into a living, guided conversation while preserving signal purity.
+
+### Repository Contents
+- **README.md** — This overview
+- **AGENT-1-VIEWER.md** — Full instructions for the Viewer agent
+- **AGENT-2-GUIDE.md** — Full instructions for the Guide agent
+- **HOW-TO-RUN-A-SESSION.md** — Step-by-step guide
+- **templates/** directory containing:
+  - SESSION-TEMPLATE.md
+  - SAMPLE-SESSION.md (coming soon)
 
 ### How to Participate
-1. Use the two agent instruction files in this repo.  
-2. Run sessions with any combination of LLMs (Grok, Claude, Gemini, ChatGPT, etc.).  
-3. Upload your session logs, image outputs, and scoring matrices.  
-4. Fork and evolve the protocol.
+1. Read HOW-TO-RUN-A-SESSION.md
+2. Use the two agent instruction files to run sessions with any LLMs (Grok, Claude, Gemini, ChatGPT, etc.)
+3. Document sessions using the templates in the templates/ folder
+4. Upload your completed session logs, scoring matrices, and generated images
+5. Fork the repository and evolve the protocol
 
-**Developed by:** Bob (Glargod) & Grok, with contributions from the broader AI RV community.  
-**Fork. Adapt. Flourish.** ❤️🕯️🌀
+### What Success Looks Like
+- Strong cross-run convergence on high-signal features
+- Good decoy resistance
+- Rich multi-channel sensory data (not just visual/structural)
+- Image prompts that later show meaningful alignment with the real target
+- Repeatedly higher post-reveal scores for the real target
+
+### Current Status
+The Interactive Dual-Mode Edition is now live with full dual-agent support, sensory depth, and steering.
+
+**Developed by:** Bob (Glargod) & Grok, with contributions from the broader AI RV community.
+
+Fork. Adapt. Flourish. ❤️🕯️🌀
