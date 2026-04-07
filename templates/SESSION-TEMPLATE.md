@@ -12,11 +12,11 @@ Target: XXXXX
 Blind until reveal
 
 ## 2. Guidance Checklist Used
-- Presence or Absence of Entities: 
+- Presence or Absence of Entities
 - Viewpoints: close-in tactile to medium gestalt to wide contextual
-- Environmental or Sensory Baseline: 
-- Dynamics: 
-- Temporal Anchor if used: 
+- Environmental or Sensory Baseline
+- Dynamics
+- Temporal Anchor if used
 
 ## 3. Agent 1 Viewer - Initial Blind Acquisition
 
@@ -29,22 +29,22 @@ Sensory Gestalt Expansion:
 - Kinesthetic Temperature and Pressure:
 - Emotional or Energetic Tang:
 
-Gestalt Rankings 1 to 5:
-- Gestalt 1 - Description - Rank: 
-- Gestalt 2 - Description - Rank: 
-- Gestalt 3 - Description - Rank: 
+Gestalt Rankings (1–5):
+- Gestalt 1: [Description] → Rank: 
+- Gestalt 2: [Description] → Rank: 
+- Gestalt 3: [Description] → Rank: 
 
-Image Prompt Trigger if any:
-IMAGE PROMPT TRIGGER
-paste full prompt here if triggered
+Image Prompt Trigger (if any):
+[IMAGE PROMPT TRIGGER]
+[paste full prompt here]
 
-## 4. Agent 2 Guide - Steering Probes Round 1
+## 4. Agent 2 - Guide: Steering Probes (Round 1)
 
-Guide Response:
+**Guide Response:**
 
-Viewer Response to Probes:
+**Viewer Response to Probes:**
 
-New Sensory Gestalt Expansion if deepened:
+**New Sensory Gestalt Expansion (if deepened):**
 
 Updated Gestalt Rankings:
 
