@@ -50,6 +50,8 @@ Step 5: Repeat the Guide loop as needed. You control the pace. When you feel the
 
 ### Post-Reveal Matrixing (Two-Tier)
 
+Use Tier 1 grades only when the reveal is a closed, verifiable target (photo, event record, decoy set).
+
 **Tier 1 – Direct Comparison**
 - Strong Hits
 - Moderate Hits
@@ -68,6 +70,17 @@ Short qualitative summary.
 
 **Protocol Lessons**
 What worked well? What should be improved?
+
+### Process Note — Unverifiable or Undersampled Cues (October 2026)
+
+For an open, undersampled cue, Tier 1 grades are the wrong instrument. Correspondence and leftover unknowns are the right ones. The class ritual and the stabilization stop still hold. On a question-target, do not import a consensus map at reveal.
+
+- If the target is unverifiable, do not label impressions weak or missed. An open question is not a closed photo.
+- Direct samples the size of a pebble on a beach do not close the volume. Sparse contact is not a full map.
+- Presumptions of geography, or any consensus model, are contextual bias. Park them outside the matrix.
+- Remain inside the impressions framework. Trust the process.
+- Unknown unknowns stay outside the matrix. Do not fill them, and do not close them with the current model.
+- Record cue correspondence only: which impressions sit next to the cue, which stay unassigned.
 
 ### Image Prompt Rule
 Generate at least one detailed image prompt during the session. Label it clearly:
