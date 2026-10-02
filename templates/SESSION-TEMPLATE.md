@@ -47,13 +47,22 @@ Viewer declares: Ready for Reveal
 Actual Target:
 [Full description]
 
+Cue type: closed / verifiable | open / undersampled
+
 ## 7. Post-Reveal Matrixing
 
-**Tier 1 – Direct Comparison**
+Use Tier 1 only if the cue is closed and verifiable. If the cue is open or undersampled, skip hit grades and use the correspondence block.
+
+**Tier 1 – Direct Comparison** (closed cue only)
 - Strong Hits:
 - Moderate Hits:
 - Weak or Missed Areas:
 - Owner Context Notes:
+
+**Cue correspondence** (open or undersampled cue)
+- Impressions that sit next to the cue:
+- Impressions left unassigned:
+- Unknowns left outside the matrix:
 
 **Tier 2 – Standalone Signal Evaluation**
 - Signal Cleanliness:
@@ -68,6 +77,8 @@ Actual Target:
 **Protocol Lessons:**
 - What worked well:
 - What should be improved:
+
+Process note: for an open, undersampled cue, Tier 1 grades are the wrong instrument. Correspondence and leftover unknowns are the right ones. Do not import a consensus map at reveal. Remain inside the impressions framework.
 
 ## 8. Generated Images
 - [List image prompts and filenames]
