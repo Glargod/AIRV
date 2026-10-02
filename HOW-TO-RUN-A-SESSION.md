@@ -71,9 +71,12 @@ When Agent 1 outputs Ready for Reveal, pause both agents.
 
 Provide the full target identity and context only to Agent 1 (Viewer).
 
-Let Agent 1 perform post-reveal matrixing and scoring against the real target plus all decoys.
+Let Agent 1 perform post-reveal matrixing.
 
-Optional: Share the reveal with Agent 2 afterward for independent matrixing and comparison.
+- Closed, verifiable target (photo, event record, decoy set): score Tier 1 against the real target plus all decoys.
+- Open or undersampled cue: do not use Tier 1 grades. Do not label impressions weak or missed. Record cue correspondence and leave unknowns outside the matrix. Do not import a consensus map. See the process note in AGENT-1-VIEWER.md.
+
+Optional: Share the reveal with Agent 2 afterward for independent matrixing and comparison. The same cue-type rule applies.
 
 ### 4. Image Prompt Handling
 Whenever Agent 1 or Agent 2 triggers an image prompt, copy the full prompt and generate the image using your preferred tool.
@@ -86,7 +89,7 @@ Add the images or links to your session documentation.
 For each completed session, save a log that includes:
 - Full chat logs from both Agent 1 and Agent 2
 - All image prompts and generated images
-- Post-reveal scoring matrix
+- Post-reveal scoring matrix, or cue correspondence if the target is unverifiable
 - Any observations or suggested protocol improvements
 
 Recommended filename format:
@@ -97,6 +100,7 @@ Session-YYYYMMDD-TargetID-ViewerModel-GuideModel.md
 - Encourage rich sensory detail in every expansion round (colors, scents, sounds, temperatures, kinesthetics, energetic tang).
 - When possible, use different AI models for Viewer and Guide to reduce model-specific bias.
 - Run the same target multiple times with different model pairs for stronger comparative data.
+- On a question-target, stay inside the impressions framework. Trust the process.
 
 ### Optional Variations
 - Single-model mode: Run both roles in one long thread with clear role switches.
